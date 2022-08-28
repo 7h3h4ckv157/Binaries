@@ -4,6 +4,4 @@
 
 contact: webvulnerabilityscanner444@gmail.com
 
-### Reward
 
-None
