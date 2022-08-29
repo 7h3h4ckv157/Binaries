@@ -3,7 +3,8 @@ int main()
 {
  int n,j,i;
  printf("Enter the no. of processes:");
- gets();
+ printf("enter no of proccess you want:");
+    scanf("%d",&n);
  int a[n],bt[n],tat[n],wt[n],ct[n],at[n];
  float awt,wts=0;
  printf("enter burst time:");
